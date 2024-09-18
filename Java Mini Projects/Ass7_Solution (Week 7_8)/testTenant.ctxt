@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=testTenant
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=array\ file
+comment2.target=void\ displayData(Tenantable[],\ tenantFile)
+comment3.params=file
+comment3.target=void\ displayStudentInfo(tenantFile)
+numComments=4

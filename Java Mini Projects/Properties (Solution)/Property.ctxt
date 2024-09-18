@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Property
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Property\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Property()
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=name\ cell_num\ months
+comment2.target=Property(java.lang.String,\ java.lang.String,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=java.lang.String\ getCell()
+comment5.params=
+comment5.target=int\ getMonths()
+comment6.params=name
+comment6.target=void\ setName(java.lang.String)
+comment7.params=cell_num
+comment7.target=void\ setCell(java.lang.String)
+comment8.params=months
+comment8.target=void\ setMonths(int)
+comment9.params=
+comment9.target=int\ getNumProperties()
+numComments=11

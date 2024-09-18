@@ -1,0 +1,8 @@
+C,David,20,Y,Value Pack
+T,Frank,20,Y,World Tours,Yen
+C,Sue,40,N,Eastrand Comp
+C,Diane,40,Y,Hilton Hotel
+T,John,45,Y,Travel Minds,Pounds
+C,Gary,45,Y,Vaal Marine
+T,Henry,41,N,Africa Tours,Euros
+T,Westley,21,Y,Budget Tours,US Dollars

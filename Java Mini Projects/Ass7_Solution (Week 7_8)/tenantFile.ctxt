@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=tenantFile
+comment1.params=
+comment1.target=void\ readFromFile()
+comment2.params=
+comment2.target=Tenantable[]\ getArray()
+comment3.params=
+comment3.target=int\ getCount()
+comment4.params=array
+comment4.target=void\ saveStudents(Tenantable[])
+numComments=5

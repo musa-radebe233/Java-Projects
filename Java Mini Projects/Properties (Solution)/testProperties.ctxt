@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=testProperties
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=arrProperties
+comment2.target=Property[]\ fillArray(Property[])
+comment3.params=arrProp\ count
+comment3.target=void\ displayProperties(Property[],\ int)
+numComments=4

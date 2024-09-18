@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=testEmployee
+comment1.params=
+comment1.target=void\ main()
+comment2.params=arrFullTimeEmp
+comment2.target=void\ displayFullTime(FullTimeEmp[])
+comment3.params=arrPartTimeEmp
+comment3.target=void\ displayPartTime(PartTimeEmp[])
+numComments=4
